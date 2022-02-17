@@ -1,0 +1,16 @@
+{
+  "name": "db-relation",
+  "version": "1.0.0",
+  "description": "Implementing crud operation with association table.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Annu",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.16.1"
+  }
+}
